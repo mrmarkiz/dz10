@@ -20,6 +20,10 @@
                     case 3:
                         Task3.Run();
                         break;
+                    case 4:
+                        Task4.Run();
+                        break;
+
 
                 }
             } while (choice != 0);
