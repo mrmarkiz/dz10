@@ -14,6 +14,13 @@
                     case 1:
                         Task1.Run();
                         break;
+                    case 2:
+
+                        break;
+                    case 3:
+                        Task3.Run();
+                        break;
+
                 }
             } while (choice != 0);
         }
